@@ -1,0 +1,44 @@
+{
+	"id": "Drifter",
+	"name": "The Driter",
+	"description": "This slugcat is capable of faster movement, and has the abilty to glide",
+	"features": {
+		"custom_colors": [
+			{
+				"name": "Body",
+				"story": "d88f57"
+			},
+			{
+				"name": "Eyes",
+				"story": "010101"
+			}
+		],
+
+		"start_room": "CC_A10",
+		"weight": 0.8,
+		"walk_speed": 1.5,
+		"climb_speed": 1.2,
+		"tunnel_speed": 1.2,
+		"has_dreams": false,
+
+
+		"torrential/glide": true,
+		"torrential/super_jump": 0.5,
+
+		"food_min": 4,
+		"food_max": 7,
+		"diet": {
+			"base": "White",
+
+			"alignments": {
+				"Scavengers": {
+					"like": 0.25,
+					"strength": 0.5
+				}
+			},
+
+			"select_menu_scene": "Slugcat_Drifter",
+			"select_menu_scene_ascended": "Ghost_Drifter"
+		}
+	}
+}
