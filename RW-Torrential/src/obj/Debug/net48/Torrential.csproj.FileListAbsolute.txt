@@ -1,0 +1,9 @@
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\bin\Debug\net48\Torrential.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\bin\Debug\net48\Torrential.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\obj\Debug\net48\Torrential.csproj.AssemblyReference.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\obj\Debug\net48\Torrential.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\obj\Debug\net48\Torrential.AssemblyInfoInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\obj\Debug\net48\Torrential.AssemblyInfo.cs
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\obj\Debug\net48\Torrential.csproj.CoreCompileInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\obj\Debug\net48\Torrential.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Random Shit\Other Stuff\RW Modding Stuff\RW-Torrential\src\obj\Debug\net48\Torrential.pdb
